@@ -1,0 +1,38 @@
+Cmp-Mod V01 Created by CvPcb (2013-jul-07)-stable date = Sat 17 Oct 2015 04:30:37 PM EDT
+
+BeginCmp
+TimeStamp = /56227C54;
+Reference = C3;
+ValeurCmp = 10uF;
+IdModule  = SM1210;
+EndCmp
+
+BeginCmp
+TimeStamp = /56227D76;
+Reference = C8;
+ValeurCmp = 22uf;
+IdModule  = SMDSVP10;
+EndCmp
+
+BeginCmp
+TimeStamp = /56228158;
+Reference = R5;
+ValeurCmp = 499k;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5622817A;
+Reference = R6;
+ValeurCmp = 54.9k;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /56227B97;
+Reference = U3;
+ValeurCmp = LT8612;
+IdModule  = QFN32;
+EndCmp
+
+EndListe
